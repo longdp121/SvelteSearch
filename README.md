@@ -17,7 +17,7 @@ A customizable and lightweight searchable select component built with Svelte. Th
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/your-username/searchable-select-svelte.git
+git clone https://github.com/longdp121/SvelteSearch.git
 cd searchable-select-svelte
 ```
 
@@ -81,7 +81,7 @@ The component is designed to work seamlessly within complex layouts. Here's an e
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/searchable-select-svelte/issues) if you have any questions or suggestions.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/longdp121/SvelteSearch/issues) if you have any questions or suggestions.
 
 ## License
 
