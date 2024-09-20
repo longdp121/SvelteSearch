@@ -10,6 +10,10 @@ A customizable and lightweight searchable select component built with Svelte. Th
 - **Lightweight**: The component is written entirely in Svelte, taking advantage of its reactive properties and efficient rendering.
 - **Robust UI**: Designed to work within complex layouts without breaking the user interface.
 
+## Demo
+
+You can view a live demo of the component [here](https://svelte-search-rose.vercel.app/).
+
 ## Usage
 
 ### Installation
